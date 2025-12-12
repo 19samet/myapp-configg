@@ -1,5 +1,5 @@
 {
   "host": "45.87.173.131",
   "port": "3306",
-  "maintenance_mode": false
+  "maintenance_mode": true
 }
